@@ -1,1 +1,2 @@
-#!/bin/bashe cho "The school is open
+!/bin/bashe
+echo "The school is open"
